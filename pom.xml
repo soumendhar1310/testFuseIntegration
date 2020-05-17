@@ -161,6 +161,12 @@
           <artifactId>jboss-rmi-api_1.0_spec</artifactId>
           <version>1.0.6.Final</version>
         </dependency>
+        
+        <dependency>
+  			<groupId>io.hawt</groupId>
+  			<artifactId>hawtio-springboot</artifactId>
+		</dependency>
+        
       </dependencies>
     </profile>
   </profiles>
